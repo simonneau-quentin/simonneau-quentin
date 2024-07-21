@@ -6,7 +6,7 @@ Computer Science student at EPITA
 
 * 🌍  I'm based in Rennes (France)
 * ✉️  You can contact me at [quentin.simonneau041@gmail.com](mailto:quentin.simonneau041@gmail.com)
-* 🚀  I'm currently working on [a school project](http://github.com/simonneau-quentin)
+* 🚀  I'm currently working on [learning a new language](http://github.com/simonneau-quentin)
 
 <a href="https://www.github.com/simonneau-quentin" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/simonneau-quentin?logo=github&style=for-the-badge&color=facc15&labelColor=0f172a" /></a>
