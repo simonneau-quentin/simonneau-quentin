@@ -5,11 +5,6 @@
 <a href="https://www.github.com/simonneau-quentin" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/simonneau-quentin?logo=github&style=for-the-badge&color=debefe&labelColor=0f172a" /></a>
 
 - 🌍 I'm based in Rennes (France)
-  
-- 🔭 I’m currently working on [an Optical Character Recognition project](https://github.com/simonneau-quentin/OCR-2028)
-
-- 🌱 I’m currently learning **C**
-
 - 📫 How to reach me **quentin.simonneau041@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
