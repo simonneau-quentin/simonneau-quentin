@@ -22,7 +22,6 @@
 - 🔭 I’m currently working on **academic projects** and learning new knowledge.
 - 🌱 I’m currently deepening my knowledge in **projects mangement.**
 - 👯 My Goal : Have fun working on enriching and stimulating projects.
-- ⚡ Vim >>> Emacs
 
 <br />
 
