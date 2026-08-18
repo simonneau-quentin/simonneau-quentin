@@ -6,6 +6,6 @@
 
 ## Languages and Frameworks / Skills
 
-![Skills](https://skillicons.dev/icons?i=bash,react,nextjs,cpp,cs,figma,js,ts,java,github,latex,linux,py,git,c)
+![Skills](https://skillicons.dev/icons?i=bash,react,cpp,cs,figma,js,ts,java,github,latex,linux,py,git,c)
 
 </div>
